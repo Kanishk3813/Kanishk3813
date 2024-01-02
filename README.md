@@ -3,7 +3,7 @@
 # 💫 About Me:
 🌱 I’m currently learning ReactJS<br><br>👨‍💻 All of my projects are available at https://github.com/predator3813<br><br>💬 Ask me about Web Development<br><br>📫 How to reach me kanishkreddy3813@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/12QYjn5uWh0cnxlYptoZT_lYcsyXDi-26/view?usp=drive_link<br><br>⚡ Fun fact I'm Good At Video Games
 
-<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif">
+<img align="center" alt="coding" width="400" src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif">
 
 
 ## 🌐 Socials:
