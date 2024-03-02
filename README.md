@@ -1,5 +1,4 @@
-<h1 style="color: blue;">Hi There 👋</h1>
-<h1 style="color: blue;">I am Kanishk</h1>
+<h1 align="center" style="color: blue;">Hi There 👋 I am Kanishk</h1>
 <br>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Play&size=25&duration=4000&pause=1000&color=blue&background=0702FF00&center=true&width=435&lines=Welcome+To+My+Github+Profile+" alt="Typing SVG" /></a></p>
@@ -45,10 +44,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
+
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kanishk3813&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kanishk3813&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanishk3813&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kanishk3813&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Kanishk3813&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kanishk3813&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Kanishk3813/count.svg?"  />
+</div>
