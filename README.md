@@ -1,31 +1,27 @@
-<h1 align="center">Hi 👋, I'm Kanishk</h1>
+<h1 style="color: blue;">Hi There 👋</h1>
+<h1 style="color: blue;">I am Kanishk</h1>
+<br>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Play&size=25&duration=4000&pause=1000&color=blue&background=0702FF00&center=true&width=435&lines=Welcome+To+My+Github+Profile+" alt="Typing SVG" /></a></p>
+<br>
+<img align="right"  width=100px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="left"  width=100px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-###
+<p align="center" ><img 
+ src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="40%"></p>
+ <br>
+ <br>
+ <span style="color:white">
 
-<div align="center">
-  <img height="300" width="550" src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif"  />
-</div>
+# 💫 About Me:
+👾 I'm a sophomore pursuing my BTech. in Computer Science and Engineering !<br>
+📫 How to reach me kanishkreddy3813@gmail.com<br>👯 I’m open to collaborate on Front-end projects !<br>🤝 I’m currently exploring Machine Learning !<br>💬 Ask me about Web Development !<br>
 
-###
 
-<h2 align="left">About me :</h2>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kanishk_7_7/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanishk-reddy-8161a122a/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KAMI_SAMA3813) 
 
-###
-
-<p align="left">🌱 I’m currently learning ReactJS<br><br>💬 Ask me about Web Dev<br><br>📫 How to reach me kanishkreddy3813@gmail.com<br><br>⚡ Fun fact I'm Good At Video Games</p>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Kanishk3813/count.svg?"  />
-</div>
-
-###
-
-<h3 align="left">💻 Tech Stack:</h3>
-
-###
-
+# 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -49,41 +45,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Kanishk3813&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kanishk3813&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanishk3813&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-###
-
-<h3 align="left">🌐 Socials:</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/kanishk-reddy-8161a122a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/KAMI_SAMA3813" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="noxias_7#8843" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/kanishk_7_7/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<h3 align="left">📊 GitHub Stats:</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kanishk3813&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Kanishk3813&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Kanishk3813/Kanishk3813/output/snake.svg" alt="Snake animation" />
-
-###
+---
+[![](https://visitcount.itsvg.in/api?id=Kanishk3813&icon=0&color=0)](https://visitcount.itsvg.in)
