@@ -59,3 +59,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/Kanishk3813/count.svg?"  />
 </div>
+
+<figure><embed src="https://wakatime.com/share/@KAMI/ea2620da-9345-4b97-a1bf-59a211570ecb.svg"></embed></figure>
