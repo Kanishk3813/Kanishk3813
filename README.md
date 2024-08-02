@@ -60,7 +60,7 @@
   <img src="https://profile-counter.glitch.me/Kanishk3813/count.svg?"  />
 </div>
 
- <p>
+ <p align="center">
     <img src="https://wakatime.com/share/@KAMI/f45bd145-2488-4dfa-9230-37d4b6eb8aa5.svg" height="320" width="420">
-  <img src="https://wakatime.com/share/@KAMI/f46a5904-0039-4df3-adf1-18b05fd2e9cb.svg" height="320" width="420">
+<!--   <img src="https://wakatime.com/share/@KAMI/f46a5904-0039-4df3-adf1-18b05fd2e9cb.svg" height="320" width="420"> -->
  </p> 
