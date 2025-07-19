@@ -13,7 +13,7 @@
  <span style="color:white">
 
 # 💫 About Me:
-👾 I'm a sophomore pursuing my BTech. in Computer Science and Engineering <br>
+👾 I'm a final-year B.Tech student majoring in Computer Science and Engineering. <br>
 📫 How to reach me kanishkreddy3813@gmail.com<br>👯 I’m open to collaborate on Front-end projects <br>🤝 I’m currently exploring AIML <br>💬 Ask me about Web Development <br>
 
 
